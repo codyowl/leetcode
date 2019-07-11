@@ -10,6 +10,6 @@
 
   -https://leetcode.com/problems/reverse-integer/
 
-  -[solution](https://github.com/codyowl/leetcode/blob/master/reverse_integer.py.py)  
+  -[solution](https://github.com/codyowl/leetcode/blob/master/reverse_integer.py)  
   
   
