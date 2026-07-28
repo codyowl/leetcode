@@ -13,7 +13,10 @@
   [solution](https://github.com/codyowl/leetcode/blob/master/longest_common_prefix.py)
 
 - [28.Find the first index of the first occurence of the string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)  
-  [solution](https://github.com/codyowl/leetcode/blob/master/28_find_first_occurence_in_string.py) 
+  [solution](https://github.com/codyowl/leetcode/blob/master/28_find_first_occurence_in_string.py)
+
+- [35.Search Insert position](https://leetcode.com/problems/search-insert-position/description/)
+  [solution](https://github.com/codyowl/leetcode/blob/master/35_search_insert_operation.py)
 
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
