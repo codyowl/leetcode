@@ -24,6 +24,9 @@
 - [66.plus one](https://leetcode.com/problems/plus-one/description/)
   [solution](https://github.com/codyowl/leetcode/blob/master/66_plus_one.py)
 
+- [67.add binary](https://leetcode.com/problems/add-binary/description/)
+  [solution](https://github.com/codyowl/leetcode/blob/master/67_add_binary.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
