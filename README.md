@@ -21,6 +21,9 @@
 - [58.length of last word](https://leetcode.com/problems/length-of-last-word/submissions/2085453039/)
   [solution](https://github.com/codyowl/leetcode/blob/master/58_length_of_last_word.py)
 
+- [66.plus one](https://leetcode.com/problems/plus-one/description/)
+  [solution](https://github.com/codyowl/leetcode/blob/master/66_plus_one.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
