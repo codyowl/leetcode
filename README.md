@@ -33,6 +33,9 @@
 - [70.climbing stairs](https://leetcode.com/problems/climbing-stairs/description/)
   [solution](https://github.com/codyowl/leetcode/blob/master/70_climbing_stairs.py)
 
+- [83.remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+  [solution](https://github.com/codyowl/leetcode/blob/master/83_remove_duplicates_from_sorted_list.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
