@@ -40,6 +40,11 @@
   Type : Binary Tree
   [solution](https://github.com/codyowl/leetcode/blob/master/94_binary_tree_inorder_traversal.py)
 
+- [100.Same tree](https://leetcode.com/problems/same-tree/) <br>
+  Type : Binary Tree <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/100_same_tree.py)
+  
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
