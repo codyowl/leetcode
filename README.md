@@ -43,6 +43,10 @@
 - [100.Same tree](https://leetcode.com/problems/same-tree/) <br>
   Type : Binary Tree <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/100_same_tree.py)
+
+- [101.symmetric tree](https://leetcode.com/problems/symmetric-tree/description/) <br>
+  Type : Binary Tree <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/101_symmetric_tree.py)
   
 
 ## Weekly contest - 145:
