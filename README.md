@@ -47,6 +47,10 @@
 - [101.symmetric tree](https://leetcode.com/problems/symmetric-tree/description/) <br>
   Type : Binary Tree <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/101_symmetric_tree.py)
+
+- [104.Maximum depth of binary search tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)<br>
+  Type : Binary Tree <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/104_maximum_depth_of_binary_tree.py)
   
 
 ## Weekly contest - 145:
