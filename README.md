@@ -51,6 +51,10 @@
 - [104.Maximum depth of binary search tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)<br>
   Type : Binary Tree <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/104_maximum_depth_of_binary_tree.py)
+
+- [108.convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)<br>
+  Type : Binary Tree <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/108_convert_sorted_array_to_binary_search_tree.py)
   
 
 ## Weekly contest - 145:
