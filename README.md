@@ -55,6 +55,10 @@
 - [108.convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)<br>
   Type : Binary Tree <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/108_convert_sorted_array_to_binary_search_tree.py)
+
+- [110.balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/description/)<br>
+  Type : Binary Tree<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/110_balanced_binary_tree.py)
   
 
 ## Weekly contest - 145:
