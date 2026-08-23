@@ -60,7 +60,7 @@
   Type : Binary Tree<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/110_balanced_binary_tree.py)
 
-- [111.minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+- [111.minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) <br>
   Type : Binary Tree<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/111_minimum_depth_of_binary_tree.py)
   
