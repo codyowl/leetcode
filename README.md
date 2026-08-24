@@ -63,6 +63,10 @@
 - [111.minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) <br>
   Type : Binary Tree<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/111_minimum_depth_of_binary_tree.py)
+
+- [112.path sum](https://leetcode.com/problems/path-sum/description/)<br>
+  Type : Binary Tree <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/112_path_sum.py)
   
 
 ## Weekly contest - 145:
