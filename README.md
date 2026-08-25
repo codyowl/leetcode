@@ -67,6 +67,10 @@
 - [112.path sum](https://leetcode.com/problems/path-sum/description/)<br>
   Type : Binary Tree <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/112_path_sum.py)
+
+- [118.pascals triangle](https://leetcode.com/problems/pascals-triangle/description/)<br>
+  Type : 2D dynamic programming<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/118_pascals_triangle.py)
   
 
 ## Weekly contest - 145:
