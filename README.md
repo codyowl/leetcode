@@ -71,6 +71,10 @@
 - [118.pascals triangle](https://leetcode.com/problems/pascals-triangle/description/)<br>
   Type : 2D dynamic programming<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/118_pascals_triangle.py)
+
+- [119.pascal triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)<br>
+  Type : 2D dynamic programming<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/119_pascal_triangle_II.py)
   
 
 ## Weekly contest - 145:
