@@ -75,6 +75,10 @@
 - [119.pascal triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)<br>
   Type : 2D dynamic programming<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/119_pascal_triangle_II.py)
+
+- [121.best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)<br>
+  Type : Greedy algorithm<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/121_best_time_buy_and_sell_stock.py)
   
 
 ## Weekly contest - 145:
