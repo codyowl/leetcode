@@ -79,6 +79,10 @@
 - [121.best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)<br>
   Type : Greedy algorithm<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/121_best_time_buy_and_sell_stock.py)
+
+- [125.valid palindrome](https://leetcode.com/problems/valid-palindrome/description/)<br>
+  Type : string manipulation<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/125_valid_palindrome.py)
   
 
 ## Weekly contest - 145:
