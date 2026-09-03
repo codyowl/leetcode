@@ -83,6 +83,10 @@
 - [125.valid palindrome](https://leetcode.com/problems/valid-palindrome/description/)<br>
   Type : string manipulation<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/125_valid_palindrome.py)
+
+- [136 single number](https://leetcode.com/problems/single-number/description/)<br>
+  Type : Array<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/136_single_number.py)
   
 
 ## Weekly contest - 145:
