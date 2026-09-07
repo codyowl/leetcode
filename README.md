@@ -87,6 +87,10 @@
 - [136 single number](https://leetcode.com/problems/single-number/description/)<br>
   Type : Array<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/136_single_number.py)
+
+- [141 linked list cycle](https://leetcode.com/problems/linked-list-cycle/description/)<br>
+  Type : Linked list
+  [solution](https://github.com/codyowl/leetcode/blob/master/141_linked_list_cycle.py)
   
 
 ## Weekly contest - 145:
