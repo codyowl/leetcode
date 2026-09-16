@@ -91,6 +91,11 @@
 - [141 linked list cycle](https://leetcode.com/problems/linked-list-cycle/description/)<br>
   Type : Linked list
   [solution](https://github.com/codyowl/leetcode/blob/master/141_linked_list_cycle.py)
+
+- [144 binary tree pre order traveral](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)<br>
+  Type : Binary tree <br>
+  solution type : depth first search<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/144_binary_tree_preorder%2Btraversal.py)
   
 
 ## Weekly contest - 145:
