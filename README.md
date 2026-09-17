@@ -96,6 +96,11 @@
   Type : Binary tree <br>
   solution type : depth first search<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/144_binary_tree_preorder%2Btraversal.py)
+
+- [145 binary tree post order traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)<br>
+  Type : Binary tree<br>
+  solution type : depth first search<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/145_binary_tree_post_order_traversal.py)
   
 
 ## Weekly contest - 145:
