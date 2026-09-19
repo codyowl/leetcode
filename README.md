@@ -101,6 +101,12 @@
   Type : Binary tree<br>
   solution type : depth first search<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/145_binary_tree_post_order_traversal.py)
+
+- [160 Intersection of two linkedlist](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)<br>
+  Type : Single linked list<br>
+  Algorithm : two pointer<br>
+  pattern : two pointer head switching<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/160_intersection_of_two_linked_list.py)
   
 
 ## Weekly contest - 145:
