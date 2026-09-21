@@ -107,6 +107,12 @@
   Algorithm : two pointer<br>
   pattern : two pointer head switching<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/160_intersection_of_two_linked_list.py)
+
+- [168 excel sheet column title](https://github.com/codyowl/leetcode/blob/master/168_excelsheet_column_title.py)<br>
+  Type : Math and string<br>
+  Algorithm : base conversion<br>
+  pattern : repeated division and remainder<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/168_excelsheet_column_title.py)
   
 
 ## Weekly contest - 145:
