@@ -113,7 +113,12 @@
   Algorithm : base conversion<br>
   pattern : repeated division and remainder<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/168_excelsheet_column_title.py)
-  
+
+- [171 excel sheet column number](https://leetcode.com/problems/excel-sheet-column-number/description/)<br>
+  Type : Math and string<br>
+  Algorithm : base conversion<br>
+  pattern : positional value accumulation<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/171_excel_sheet_column_number.py)
 
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
