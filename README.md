@@ -120,6 +120,12 @@
   pattern : positional value accumulation<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/171_excel_sheet_column_number.py)
 
+- [190 reverse bits](https://leetcode.com/problems/reverse-bits/description/)<br>
+  Type : Bit manipulation<br>
+  Algorithm : fixed width bit traversal<br>
+  patern : extract and rebuild <br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/190_reverse_bits.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
