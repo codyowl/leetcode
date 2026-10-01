@@ -126,6 +126,12 @@
   patern : extract and rebuild <br>
   [solution](https://github.com/codyowl/leetcode/blob/master/190_reverse_bits.py)
 
+- [191 Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/description/)<br>
+  Problem category: Bit Manipulation<br>
+  Algorithm: Bit Counting / Hamming Weight<br>
+  Pattern: Extract and Count Digits<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/191_number_of_ibits.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
