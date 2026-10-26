@@ -139,6 +139,13 @@
              repeated state transformation<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/202_happy_number.py)
 
+- [203 Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/description/)<br>
+  Problem category : linked list<br>
+  Algorithm : linear node traversal<br>
+  pattern : dummy head with previous/current node traversal<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/203_remove_linked_list.py)<br>
+  
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
