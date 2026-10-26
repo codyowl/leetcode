@@ -132,6 +132,13 @@
   Pattern: Extract and Count Digits<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/191_number_of_ibits.py)
 
+- [202 Happy Number](https://leetcode.com/problems/happy-number/)<br>
+  Problem category : Math, hashset<br>
+  Algorithm : Cycle detection using visited states<br>
+  patterns : decimal digits extraction<br>
+             repeated state transformation<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/202_happy_number.py)
+
 ## Weekly contest - 145:
 - [Relative Sort Array](https://leetcode.com/contest/weekly-contest-145/problems/relative-sort-array/):
   [solution](https://github.com/codyowl/leetcode/blob/master/relative_sort_array.py)   
