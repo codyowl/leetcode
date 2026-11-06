@@ -150,6 +150,12 @@
   Algorithm : bidirectional character mapping<br>
   pattern : one to one mapping<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/205_isomorphic_strings.py)<br>
+
+- [206 Reverse linked list](https://leetcode.com/problems/reverse-linked-list/description/)<br>
+  Problem category : linkedlist<br>
+  Algorithm : Iterative pointer manipulation<br>
+  pattern : Three pointer linked list traversal<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/206_reverse_linked_list.py)
   
 
 ## Weekly contest - 145:
