@@ -144,6 +144,12 @@
   Algorithm : linear node traversal<br>
   pattern : dummy head with previous/current node traversal<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/203_remove_linked_list.py)<br>
+
+- [205 Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/description/)<br>
+  Problem category : string + hashmap<br>
+  Algorithm : bidirectional character mapping<br>
+  pattern : one to one mapping<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/205_isomorphic_strings.py)<br>
   
 
 ## Weekly contest - 145:
