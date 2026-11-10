@@ -156,6 +156,12 @@
   Algorithm : Iterative pointer manipulation<br>
   pattern : Three pointer linked list traversal<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/206_reverse_linked_list.py)
+
+- [217 contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)<br>
+  Problem category : Array and hash set <br>
+  Algorithm : single pass duplicate detection<br>
+  pattern : seen set pattern<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/217_contains_duplicate.py)
   
 
 ## Weekly contest - 145:
