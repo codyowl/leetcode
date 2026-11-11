@@ -162,6 +162,12 @@
   Algorithm : single pass duplicate detection<br>
   pattern : seen set pattern<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/217_contains_duplicate.py)
+
+- [219 contains duplicateII](https://leetcode.com/problems/contains-duplicate-ii/description/)<br>
+  Problem category : Array and hash map<br>
+  Algorithm : last seen index tracking<br>
+  pattern : value to latest index mapping<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/219_contains_duplicate_two.py)
   
 
 ## Weekly contest - 145:
