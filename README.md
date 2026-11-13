@@ -168,6 +168,12 @@
   Algorithm : last seen index tracking<br>
   pattern : value to latest index mapping<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/219_contains_duplicate_two.py)
+
+- [225 Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues/)<br>
+  Problem category : Stack and queue<br>
+  Algorithm : Data structure simulation<br>
+  pattern : simulating one data structure using other<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/225_implement_stack_using_queue.py)
   
 
 ## Weekly contest - 145:
