@@ -173,7 +173,13 @@
   Problem category : Stack and queue<br>
   Algorithm : Data structure simulation<br>
   pattern : simulating one data structure using other<br>
-  [solution](https://github.com/codyowl/leetcode/blob/master/225_implement_stack_using_queue.py)
+  [solution](https://github.com/codyowl/leetcode/blob/master/225_implement_stack_using_queue.py)<br>
+
+- [226 binary tree invert](https://leetcode.com/problems/invert-binary-tree/description/)<br>
+  Problem category : Binary Tree<br>
+  Algorithm : Depth first search<br>
+  Pattern : process current node and recurse its left and right child<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/226_invert_binary_tree.py)<br>
   
 
 ## Weekly contest - 145:
