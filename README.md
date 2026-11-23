@@ -180,6 +180,12 @@
   Algorithm : Depth first search<br>
   Pattern : process current node and recurse its left and right child<br>
   [solution](https://github.com/codyowl/leetcode/blob/master/226_invert_binary_tree.py)<br>
+
+- [228 summary ranges](https://leetcode.com/problems/summary-ranges/description/)<br>
+  Problem category : Array<br>
+  Algorithm : Linear scan<br>
+  Pattern : Consequitve range grouping
+  [solution](https://github.com/codyowl/leetcode/blob/master/228_summary_ranges.py)<br>
   
 
 ## Weekly contest - 145:
