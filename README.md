@@ -186,6 +186,12 @@
   Algorithm : Linear scan<br>
   Pattern : Consequitve range grouping
   [solution](https://github.com/codyowl/leetcode/blob/master/228_summary_ranges.py)<br>
+
+- [231 power of two](https://leetcode.com/problems/power-of-two/description/)<br>
+  Problem category : Math<br>
+  Algorithm : Repeated division<br>
+  Pattern : Reduce input until base case
+  [solution](https://leetcode.com/problems/power-of-two/description/)<br>
   
 
 ## Weekly contest - 145:
