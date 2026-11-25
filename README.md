@@ -190,8 +190,14 @@
 - [231 power of two](https://leetcode.com/problems/power-of-two/description/)<br>
   Problem category : Math<br>
   Algorithm : Repeated division<br>
-  Pattern : Reduce input until base case
+  Pattern : Reduce input until base case<br>
   [solution](https://leetcode.com/problems/power-of-two/description/)<br>
+
+- [232 implement queue using stack](https://leetcode.com/problems/implement-queue-using-stacks/description/)<br>
+  Problem category : stack and queue<br>
+  Algorithm : Data structure simulation<br>
+  Pattern : two stack input/output pattern<br>
+  [solution](https://github.com/codyowl/leetcode/blob/master/232_implement_queue_using_stack.py)<br>
   
 
 ## Weekly contest - 145:
